@@ -5,7 +5,7 @@ import os
 
 app = Flask(__name__)
 PROJECT_ID = "tcs-lab-447919"  
-LOCATION = "us-central1"  
+LOCATION = "europe-west2"  
 
 vertexai.init(project=PROJECT_ID, location=LOCATION)
 
