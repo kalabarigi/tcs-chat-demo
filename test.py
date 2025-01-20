@@ -1,7 +1,7 @@
 import os
 import vertexai
 
-PROJECT_ID = "tcs-lab-447919"  
+PROJECT_ID = "tcs-chatbot-448403"  
 #PROJECT_ID = "tcs-llm"
 LOCATION = "us-central1" 
 
