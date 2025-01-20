@@ -6,7 +6,7 @@ import os
 app = Flask(__name__)
 PROJECT_ID = "tcs-chatbot-448403"  
 #PROJECT_ID = "tcs-llm"
-LOCATION = "europe-west2"  
+LOCATION = "us-central1"  
 
 vertexai.init(project=PROJECT_ID, location=LOCATION)
 
